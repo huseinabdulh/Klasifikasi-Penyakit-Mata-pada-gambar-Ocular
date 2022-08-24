@@ -4,6 +4,9 @@
 ## Data Set
 https://www.kaggle.com/code/ulafiliz/ocular-disease-detection-data-analysis/data
 
+## Code Preview
+https://www.kaggle.com/code/texasdave/classifying-eye-disease-in-ocular-images
+
 ## Gambar Deploy
 ![image](https://user-images.githubusercontent.com/49096980/186394730-83f010aa-5855-4dfb-a948-31b67306866a.png)
 
