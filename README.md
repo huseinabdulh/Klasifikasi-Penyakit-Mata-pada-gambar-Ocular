@@ -1,4 +1,4 @@
-# Klasifikasi-Penyakit-Mata-pada-gambar-Ocular
+# Klasifikasi Penyakit Mata pada gambar Ocular
 
 
 ## Data Set
