@@ -5,7 +5,8 @@
 https://www.kaggle.com/code/ulafiliz/ocular-disease-detection-data-analysis/data
 
 ## Gambar Deploy
-![![image](https://user-images.githubusercontent.com/49096980/186394108-a852abb7-0da9-48f7-9433-901da7d1cd6b.png)](https://user-images.githubusercontent.com/49096980/147848062-1acedb75-55af-46ea-9600-b7015ce38229.jpeg)
+![image](https://user-images.githubusercontent.com/49096980/186394193-3b39daf5-7a40-4ccc-b312-6519a4f9c164.png)
+
 
 ## Deskripsi Dataset 
 Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [FaceMask](https://www.kaggle.com/vijaykumar1799/face-mask-detection) yang terdiri dari :
