@@ -5,7 +5,8 @@
 https://www.kaggle.com/code/ulafiliz/ocular-disease-detection-data-analysis/data
 
 ## Gambar Deploy
-![![image](https://user-images.githubusercontent.com/49096980/186394108-a852abb7-0da9-48f7-9433-901da7d1cd6b.png)](https://user-images.githubusercontent.com/49096980/147848062-1acedb75-55af-46ea-9600-b7015ce38229.jpeg)
+![image](https://user-images.githubusercontent.com/49096980/186394730-83f010aa-5855-4dfb-a948-31b67306866a.png)
+
 
 ## Deskripsi Dataset 
 Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [Eye Detection](https://www.kaggle.com/code/ulafiliz/ocular-disease-detection-data-analysis/data) yang terdiri dari :
